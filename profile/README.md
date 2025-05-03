@@ -1,6 +1,9 @@
 # Frackwochen- & Alumniverein IT, DS, MI
 
-## Was ist der Verein
+## Was ist der Verein?
 
-## Wo kann ich mitmachen
+## Wie kann ich mitmachen?
 
+## Logos & Farben
+
+- TODO
