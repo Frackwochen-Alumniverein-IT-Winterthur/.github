@@ -1,4 +1,4 @@
-# Frackwochen- & Alumniverein Informatik Winterthur
+# ITDSMI - Frackmobil & Alumni
 
 ## Was ist der Verein?
 
